@@ -1,7 +1,7 @@
 # Criminality
 
 [Combat]
-  -Silent Aim (Fov, Fov Color, & Hitpart Customization)
+  * Silent Aim (Fov, Fov Color, & Hitpart Customization)
   -Wallbang (1 wall only)
   -Kill Aura
   -Auto Finish
