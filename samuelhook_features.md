@@ -2,11 +2,11 @@
 
 [Combat]
   * Silent Aim (Fov, Fov Color, & Hitpart Customization)
-  -Wallbang (1 wall only)
-  -Kill Aura
-  -Auto Finish
-  -Infinite Block
-  -PepperSpray Aura
+  * Wallbang (1 wall only)
+  * Kill Aura
+  * Auto Finish
+  * Infinite Block
+  * PepperSpray Aura
   
 [Misc]
   -Server Lagger (requires radio)
