@@ -23,6 +23,7 @@
   * Loop Lock (so people can't break the door)
   * Knock On Near Doors
   * Anti Down
+  * Open Safe
 
 [Gun Mods]
   * No Recoil
