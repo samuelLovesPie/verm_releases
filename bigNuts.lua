@@ -1,9 +1,1 @@
-we
-
-love
-
-making
-
-shit
-
-happen
+big nuts
