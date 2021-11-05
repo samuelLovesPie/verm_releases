@@ -1,7 +1,7 @@
 # Criminality
 
 [Combat]
-  * Silent Aim (Fov, Fov Color, & Hitpart Customization)
+  * Silent Aim (Fov, Fov Color, & Hitpart Customization) -- currently not working
   * Wallbang (1 wall only)
   * Kill Aura
   * Auto Finish
