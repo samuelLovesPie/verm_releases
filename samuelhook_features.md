@@ -14,7 +14,6 @@
   * Infinite Jump
   * Auto Pickup
   * Auto Lockpick
-  * Instant Break Safe
   * No Fall Damage
   * No Ragdoll
   * Keep Loot (only if you're not in combat, resetting, etc.)
@@ -28,7 +27,6 @@
 [Gun Mods]
   * No Recoil
   * No Spread
-  * Instant Reload
   * Instant Equip
   * Fast Fire
   * Always Auto
