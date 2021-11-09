@@ -73,20 +73,38 @@
   * Wallbang
   * Kill Aura
   * Auto Parry
+  * Auto Finish
+  * Anti Parry
+  * Hitbox Expander (dont buy for this, its kinda  scuffed)
 
 [Visuals]
   * Player ESP (boxes, name, face camera)
 
 [Weapon Mods]
+  * No Recoil
+  * No Spread
   * Faster Reload
-  * Instant Shoot
+  * Instant Bear Trap
+  * Instant Charge Bow
+  * Instant Bullet Travel
 
 [Misc]
+  * Infinite Stamina
   * Infinite Air
   * Revive Self
-  * Anti Headshot
   * No Fall
   * No Ragdoll
-  * Equip Tool
-  * Teleport Behind
+  * No Utility Damage (besides grenades)
+  * Equip Sword
   * Speed
+  * JumpPower
+  * Infinite Jump
+  * No Jump Cooldown
+  * Teleport Above Enemy
+  * Kill Say
+  * No Dash Cooldown
+  * Auto Respawn
+  * RPG Player
+  * Execute RPG
+  * Steal Airdrop
+  * Unlock All Emotes
