@@ -1,7 +1,7 @@
 # Criminality
 
 [Combat]
-  * Silent Aim (Fov, Fov Color, & Hitpart Customization) -- currently not working
+  * Silent Aim (Fov, Fov Color, & Hitpart Customization)
   * Wallbang (1 wall only)
   * Kill Aura
   * Auto Finish
@@ -75,7 +75,7 @@
   * Auto Parry
   * Auto Finish
   * Anti Parry
-  * Hitbox Expander (dont buy for this, its kinda  scuffed)
+  * Hitbox Expander
 
 [Visuals]
   * Player ESP (boxes, name, face camera)
