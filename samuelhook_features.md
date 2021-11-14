@@ -108,3 +108,32 @@
   * Execute RPG
   * Steal Airdrop
   * Unlock All Emotes
+
+# Zo
+
+[Combat]
+  * Kill Aura
+  * Sword Reach (it's not that legit, i wouldnt recommend for legit gameplay)
+  * Kick Aura
+  * Stay Blocked
+  * Teleport Behind Enemy
+  * Hit Bell
+
+[Visuals]
+  * Player ESP (boxes, name, face camera)
+
+[Misc]
+  * No Dash Cooldown (ban risk)
+  * No Kick Cooldown (ban risk)
+  * No Cambob
+  * Ruduce Fall (kinda scuffed, but will make u not have fall dmg)
+  * No Jump Cooldown
+  * Walkspeed
+  * Spam Blood
+  * Infinite Jump
+  * Run With Sword
+  * Noclip
+  * Free Latern
+  * Staff Detector
+  * Weapon Selection (kanabo, katana, naginata)
+  * Open Shop
