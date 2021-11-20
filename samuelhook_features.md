@@ -23,6 +23,7 @@
   * Knock On Near Doors
   * Anti Down
   * Open Safe
+  * Instant Break Safe
 
 [Gun Mods]
   * No Recoil
@@ -39,7 +40,7 @@
   * Fov
   * Jump Power
   * Infinite Stamina
-  * Noclip
+  * Noclip -> broken until i make a non-scuffed way of doing it
   * No Jump Cooldown
   * Fullbright
   * Admin Detector
@@ -60,10 +61,14 @@
   * Scrap
   * Safe
   * Grey Walls
-  * GDI Roof
-  * Warehouse Roof
-  * Motel Roof
-  * Factory Roof
+  * Hotel Room
+  * Blox Top Room
+  * Pizzeria Roof
+  * Pizzeria Inside
+  * Subway Inside
+  * Factory Inside
+  * Warehouse Inside
+  * Vibecheck Inside
   * Customizable TP (safe pos)
 
 # Combat Warriors
