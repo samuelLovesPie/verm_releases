@@ -12,8 +12,6 @@ local ESP = {
     AttachShift = 1,
     TeamMates = true,
     Players = true,
-	HighlightColor = Color3.fromRGB(255,1,255),
-	Highlighted = nil,
     
     Objects = setmetatable({}, {__mode="kv"}),
     Overrides = {}
@@ -313,22 +311,11 @@ function ESP:Add(obj, options)
         Visible = self.Enabled and self.Tracers
     })
     self.Objects[obj] = box
-    
-    obj.AncestryChanged:Connect(function(_, parent)
-        if parent == nil and ESP.AutoRemove ~= false then
-            box:Remove()
-        end
-    end)
-    obj:GetPropertyChangedSignal("Parent"):Connect(function()
-        if obj.Parent == nil and ESP.AutoRemove ~= false then
-            box:Remove()
-        end
-    end)
 
-    local hum = obj:FindFirstChildOfClass("Humanoid")
-	if hum then
-        hum.Died:Connect(function()
-            if ESP.AutoRemove ~= false then
+    local hum = obj:FindFirstChild'Values'
+	if hum and hum.Values:FindFirstChild'Broken' then
+        hum.Broken.Value:Connect(function(a)
+            if a == true and ESP.AutoRemove ~= false then
                 box:Remove()
             end
 		end)
