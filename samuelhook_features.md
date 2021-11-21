@@ -40,7 +40,7 @@
   * Fov
   * Jump Power
   * Infinite Stamina
-  * Noclip -> broken until i make a non-scuffed way of doing it
+  * Noclip
   * No Jump Cooldown
   * Fullbright
   * Admin Detector
@@ -137,7 +137,7 @@
   * Spam Blood
   * Infinite Jump
   * Run With Sword
-  * Noclip
+  * Noclip -> broken until i make a non-scuffed way of doing it
   * Free Latern
   * Staff Detector
   * Weapon Selection (kanabo, katana, naginata)
