@@ -314,7 +314,7 @@ function ESP:Add(obj, options)
 
     local hum = obj:FindFirstChild'Values'
 	if hum and hum.Values:FindFirstChild'Broken' then
-        hum.Broken.Value:Connect(function(a)
+        hum.Broken.Changed:Connect(function(a)
             if a == true and ESP.AutoRemove ~= false then
                 box:Remove()
             end
