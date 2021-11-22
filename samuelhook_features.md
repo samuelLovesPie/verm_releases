@@ -78,8 +78,6 @@
 # Combat Warriors
 
 [Combat]
-  * Silent Aim (Fov, Fov Color, & Hitpart Customization)
-  * Wallbang
   * Kill Aura
   * Auto Parry
   * Auto Finish
