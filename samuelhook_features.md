@@ -12,6 +12,7 @@
   * Server Lagger (requires radio)
   * Annoy Near Players (must have a gun equipped)
   * Infinite Jump
+  * Auto Tool Pickup
   * Auto Pickup
   * Auto Lockpick
   * No Fall Damage
@@ -19,11 +20,13 @@
   * Keep Loot (only if you're not in combat, resetting, etc.)
   * Unlock Near Doors
   * Break Near Doors (requires weapon in ur hand that can break doors)
-  * Loop Lock (so people can't break the door)
   * Knock On Near Doors
   * Anti Down
   * Open Safe
   * Instant Break Safe
+  * Notify When Tool (notifies you whenever a tool is dropped)
+  * Loop Lock (so people can't break the door)
+  * Anti Barbwire
 
 [Gun Mods]
   * No Recoil
@@ -33,18 +36,18 @@
   * Always Auto
 
 [Kiriot ESP]
-  * Player (box, name, etc.)
+  * Players (box, name, etc.)
 
 [Player]
-  * WalkSpeed
-  * Fov
+  * Walkspeed
+  * FOV
   * Jump Power
   * Infinite Stamina
   * Noclip
   * No Jump Cooldown
   * Fullbright
   * Admin Detector
-  * Anti Flash
+  * Anti-Flash
   * No Smoke
   * Max Zoom Distance
   * No Camera Shake
@@ -60,6 +63,7 @@
   * Atm
   * Scrap
   * Safe
+  * Tools
   * Grey Walls
   * Hotel Room
   * Blox Top Room
