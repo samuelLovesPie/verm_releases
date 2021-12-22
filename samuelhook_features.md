@@ -1,63 +1,68 @@
 # Criminality
 
 [Combat]
-  * Silent Aim (Fov, Fov Color, & Hitpart Customization)
-  * Wallbang (1 wall only)
-  * Kill Aura
-  * Auto Finish
-  * Infinite Block
-  * PepperSpray Aura
+  * Silent Aim (Fov, Show fov, Fov Color, & Hitpart Customization)
+  * Killaura
+  * Auto finish
+  * Infinite block
+  * Pepperspray aura
+  * Custom hitsound (bonk, rust, skeet, bag, baimware)
+  * Wallbang
+  * Whitelist friends (if they're your friend the silent aim wont target them)
+  * Hitbox expander
   
 [Misc]
-  * Server Lagger (requires radio)
-  * Annoy Near Players (must have a gun equipped)
-  * Infinite Jump
-  * Auto Tool Pickup
-  * Auto Pickup
-  * Auto Lockpick
-  * No Fall Damage
-  * No Ragdoll
-  * Keep Loot (only if you're not in combat, resetting, etc.)
-  * Unlock Near Doors
-  * Break Near Doors (requires weapon in ur hand that can break doors)
-  * Knock On Near Doors
-  * Anti Down
-  * Open Safe
-  * Instant Break Safe
-  * Notify When Tool (notifies you whenever a tool is dropped)
-  * Loop Lock (so people can't break the door)
-  * Anti Barbwire
+  * Noclip
+  * Infinite jump
+  * Annoy near players (must have a gun equipped)
+  * Auto tool pickup
+  * Auto pickup
+  * Auto lockpick
+  * Keep loot (only if you're not in combat, resetting, etc.)
+  * No fall damage
+  * No ragdoll
+  * Break near doors (requires weapon in ur hand that can break doors)
+  * Knock near doors
+  * Unlock near doors
+  * Antidown
+  * Open safe
+  * Instant break safe
+  * Loop lock (so people can't break the door)
+  * Lag players
+  * Anti barbwire
 
 [Gun Mods]
   * No Recoil
-  * No Spread
-  * Instant Equip
-  * Fast Fire
-  * Always Auto
+  * Instant equip
+  * Always automatic
+  * Spread amount (lets you choose custom spread amount)
+  * Firerate amount (lets you choose custom firerate amount)
 
-[Kiriot ESP]
-  * Players (box, name, etc.)
+[Visuals]
+  * Players (box, name, safe, atm, dealer, scrap, etc.)
 
 [Player]
   * Walkspeed
-  * FOV
-  * Jump Power
-  * Infinite Stamina
-  * Noclip
-  * No Jump Cooldown
+  * Jump power
+  * Field of view
+  * Antifire (works whenever you step out of the fire, gets rid of the fire damage)
   * Fullbright
-  * Admin Detector
-  * Anti-Flash
-  * No Smoke
-  * Max Zoom Distance
-  * No Camera Shake
-  * Anti Drown
+  * Infinite stamina
+  * No smoke
+  * No flash
+  * No jump cooldown
+  * Anti drown
+  * Admin detector
+  * No camera shake
+  * Auto tool
+  * Anti concussion
+  * Autobuy lockpicks (makes it easier to farm - you must be near a dealer)
 
 [Chat Stuff]
-  * Toggle Chat
-  * Bypass 'EZ'
   * Kill Say
-
+  * Bypass ez
+  * Toggle Chat
+  
 [Teleportation]
   * Dealer
   * Atm
@@ -74,73 +79,73 @@
   * Warehouse Inside
   * Vibecheck Inside
   * Customizable TP (safe pos)
+  * Check if in range (lets you choice what option you want. safe, scrap, dealer, atm.)
+  * Filter safes (all, medium, small, register)
 
 # Combat Warriors
 
 [Combat]
-  * Kill Aura
-  * Auto Parry
-  * Auto Finish
-  * Anti Parry
+  * Kill aura
+  * Auto parry
+  * Auto finish
+  * Anti parry
   * Hitbox Expander
 
 [Visuals]
   * Player ESP (boxes, name, face camera)
 
 [Weapon Mods]
-  * No Recoil
-  * No Spread
-  * Faster Reload
-  * Instant Bear Trap
-  * Instant Charge Bow
-  * Instant Bullet Travel
+  * No recoil
+  * No spread
+  * Faster reload
+  * Instant bear Trap
+  * Instant charge Bow
+  * Instant bullet Travel
 
 [Misc]
-  * Infinite Stamina
-  * Infinite Air
-  * Revive Self
-  * No Fall
-  * No Ragdoll
-  * No Utility Damage (besides grenades)
-  * Equip Sword
-  * Speed
-  * JumpPower
-  * Infinite Jump
-  * No Jump Cooldown
-  * Teleport Above Enemy
-  * Kill Say
-  * No Dash Cooldown
-  * Auto Respawn
-  * RPG Player
+  * Revive self
+  * Infinite air
+  * Infinite stamina
+  * No fall
+  * No ragdoll
+  * No utility Damage (besides grenades)
+  * Walkspeed
+  * Jumppower
+  * Equip weapon
+  * Infinite jump
+  * No jump cooldown
+  * Teleport above enemy
+  * Kill say
+  * No dash cooldown
+  * Auto respawn
+  * RPG player
   * Execute RPG
-  * Steal Airdrop
-  * Unlock All Emotes
+  * Steal airdrop
+  * Unlock all amotes
 
 # Zo
 
 [Combat]
-  * Kill Aura
-  * Sword Reach (it's not that legit, i wouldnt recommend for legit gameplay)
-  * Kick Aura
-  * Stay Blocked
-  * Teleport Behind Enemy
-  * Hit Bell
+  * Killaura
+  * Sword reach (it's not that legit, i wouldnt recommend for legit gameplay)
+  * Kick aura
+  * Stay blocked
+  * Teleport behind enemy
+  * Hit bell
 
 [Visuals]
   * Player ESP (boxes, name, face camera)
 
 [Misc]
-  * No Dash Cooldown (ban risk)
-  * No Kick Cooldown (ban risk)
-  * No Cambob
-  * Ruduce Fall (kinda scuffed, but will make u not have fall dmg)
-  * No Jump Cooldown
+  * No dash cooldown (ban risk)
+  * No kick cooldown (ban risk)
+  * No cambob
+  * No jump cooldown
   * Walkspeed
-  * Spam Blood
-  * Infinite Jump
-  * Run With Sword
-  * Noclip -> broken until i make a non-scuffed way of doing it
-  * Free Latern
-  * Staff Detector
-  * Weapon Selection (kanabo, katana, naginata)
-  * Open Shop
+  * Spam blood
+  * Infinite jump
+  * Run with sword
+  * Free latern
+  * Staff detector
+  * Weapon selection (kanabo, katana, naginata)
+  * Open shop
