@@ -21,13 +21,12 @@
   * Keep loot (only if you're not in combat, resetting, etc.)
   * No fall damage
   * No ragdoll
+  * Loop lock (so people can't break the door)
   * Break near doors (requires weapon in ur hand that can break doors)
   * Knock near doors
-  * Unlock near doors
   * Antidown
   * Open safe
   * Instant break safe
-  * Loop lock (so people can't break the door)
   * Lag players
   * Anti barbwire
 
