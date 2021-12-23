@@ -38,7 +38,7 @@
   * Firerate amount (lets you choose custom firerate amount)
 
 [Visuals]
-  * Players (box, name, safe, atm, dealer, scrap, etc.)
+  * Players (box, name, tracers, etc.)
 
 [Player]
   * Walkspeed
