@@ -100,7 +100,6 @@
   * Faster reload
   * Instant bear Trap
   * Instant charge Bow
-  * Instant bullet Travel
 
 [Misc]
   * Revive self
