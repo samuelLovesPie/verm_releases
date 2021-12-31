@@ -147,3 +147,27 @@
   * Staff detector
   * Weapon selection (kanabo, katana, naginata)
   * Open shop
+
+# Right 2 Fight
+  * Autofarm
+  * Killaura
+  * Eat under health (you need to select the food you want to use in the menu)
+  * Invisibility
+  * Infinite money 
+  * Infinite heat
+  * Allow jumping
+  * Autobuy abilities
+  * Always evade
+
+# Vesteria
+  * Godmode
+  * Auto pickup (nearby items)
+  * No damage indicators (clientside, to reduce lag)
+  * Fullbright
+  * Killaura (kinda fast)
+  * Open merchant (opens the merchant in that world and lets you buy)
+  * Noclip
+  * Autofarm (sometimes breaks after a little bit, i wouldnt buy primarily for this feature)
+  * Respawn character (respawns you at full health)
+  * Teleport spots (has every tp in the world ur at)
+  * Collect all chests
