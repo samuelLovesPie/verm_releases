@@ -8,6 +8,7 @@
   * Pepperspray aura
   * Custom hitsound (bonk, rust, skeet, bag, baimware)
   * Wallbang
+  * Triggerbot
   * Whitelist friends (if they're your friend the silent aim wont target them)
   * Hitbox expander
   
