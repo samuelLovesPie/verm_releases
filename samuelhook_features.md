@@ -10,6 +10,7 @@
   * Wallbang
   * Triggerbot
   * Whitelist friends (if they're your friend the silent aim wont target them)
+  * Custom models (for guns only)
   * Hitbox expander
   
 [Misc]
@@ -30,16 +31,21 @@
   * Instant break safe
   * Lag players
   * Anti barbwire
+  * Spin around (makes u spin in circles kinda like antiaim)
 
 [Gun Mods]
   * No Recoil
   * Instant equip
   * Always automatic
+  * Instant aim
+  * No bullet drop
   * Spread amount (lets you choose custom spread amount)
   * Firerate amount (lets you choose custom firerate amount)
 
 [Visuals]
   * Players (box, name, tracers, etc.)
+  * Shell color (modifies the color of the shell that comes out of the gun)
+  * Bullet color (modifies the color of the bullets)
 
 [Player]
   * Walkspeed
