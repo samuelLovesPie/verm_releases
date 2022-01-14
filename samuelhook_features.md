@@ -9,8 +9,8 @@
   * Custom hitsound (bonk, rust, skeet, bag, baimware)
   * Wallbang
   * Triggerbot
-  * Whitelist friends (if they're your friend the silent aim wont target them)
   * Custom models (for guns only)
+  * Whitelist friends (if they're your friend the silent aim wont target them)
   * Hitbox expander
   
 [Misc]
@@ -27,20 +27,23 @@
   * Break near doors (requires weapon in ur hand that can break doors)
   * Knock near doors
   * Antidown
-  * Open safe
-  * Instant break safe
   * Lag players
+  * Instant break safe
+  * Auto refill
   * Anti barbwire
+  * Autobuy lockpicks (makes it easier to farm - you must be near a dealer)
   * Spin around (makes u spin in circles kinda like antiaim)
 
 [Gun Mods]
   * No Recoil
-  * Instant equip
-  * Always automatic
   * Instant aim
+  * Instant equip
   * No bullet drop
   * Spread amount (lets you choose custom spread amount)
+  * Custom firemode
+  * Auto revolver
   * Firerate amount (lets you choose custom firerate amount)
+  * Custom burst amount (max is 5, sometimes doesn't fire all 5)
 
 [Visuals]
   * Players (box, name, tracers, etc.)
@@ -62,7 +65,9 @@
   * No camera shake
   * Auto tool
   * Anti concussion
-  * Autobuy lockpicks (makes it easier to farm - you must be near a dealer)
+  * No blood screen
+  * Always swim
+  * No slowdown (this is for most game functions that slow u down)
 
 [Chat Stuff]
   * Kill Say
