@@ -127,7 +127,6 @@
   * Teleport above enemy
   * Kill say
   * No dash cooldown
-  * Auto respawn
   * RPG player
   * Execute RPG
   * Steal airdrop
