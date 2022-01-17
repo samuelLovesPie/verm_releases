@@ -160,6 +160,9 @@
   * Open shop
 
 # Right 2 Fight
+
+
+[Main]
   * Autofarm
   * Killaura
   * Eat under health (you need to select the food you want to use in the menu)
@@ -171,6 +174,8 @@
   * Always evade
 
 # Vesteria
+
+[Main]
   * Godmode
   * Auto pickup (nearby items)
   * No damage indicators (clientside, to reduce lag)
@@ -182,3 +187,31 @@
   * Respawn character (respawns you at full health)
   * Teleport spots (has every tp in the world ur at)
   * Collect all chests
+
+# Those Who Remain
+
+[Combat]
+  * Killaura
+  * Kill all
+  * Hitsound/Buildsound selection
+
+[Misc]
+  * Auto ready
+  * Auto pickup
+  * Custom hitsounds
+  * Custom build sound (everyone can hear the sound)
+  * Thirdperson
+  * Field of view
+  * Walkspeed
+  * Jump power
+
+[Gun mods]
+  * No recoil
+  * Full reload (reloads ur whole mag for certain guns that dont)
+  * Instant reload
+  * Always automatic
+  * Instant equip
+  * Instant build
+
+[Visuals]
+  * Zombie esp (customizable)
