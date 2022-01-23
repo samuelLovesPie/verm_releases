@@ -215,3 +215,25 @@
 
 [Visuals]
   * Zombie esp (customizable)
+
+# Vectus
+
+[Main]
+  * Killaura
+  * Auto open
+  * Infinite block
+  * No fall
+  * Auto loot
+  * Auto break door
+  * No ragdoll
+  * Auto parry break
+  * Kunai near player
+  * Auto pickup
+  * Automatic C4
+  * Infinite battery
+  * No jump cooldown
+
+[Visuals]
+  * Player esp
+  * Flare esp
+  * Loot esp
