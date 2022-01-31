@@ -108,9 +108,11 @@
 [Weapon Mods]
   * No recoil
   * No spread
-  * Faster reload
-  * Instant bear Trap
-  * Instant charge Bow
+  * Instant bear trap
+  * No dropoff
+  * Infinite range
+  * Instant charge
+  * No reload slowdown
 
 [Misc]
   * Revive self
@@ -231,6 +233,7 @@
   * Auto pickup
   * Automatic C4
   * Infinite battery
+  * Infinite stamina
   * No jump cooldown
 
 [Visuals]
