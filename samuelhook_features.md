@@ -49,6 +49,7 @@
   * Players (box, name, tracers, etc.)
   * Shell color (modifies the color of the shell that comes out of the gun)
   * Bullet color (modifies the color of the bullets)
+  * Game ESP (scrap, safe, dealer, atm)
 
 [Player]
   * Walkspeed
