@@ -130,8 +130,6 @@
   * Teleport above enemy
   * Kill say
   * No dash cooldown
-  * RPG player
-  * Execute RPG
   * Steal airdrop
   * Unlock all amotes
 
