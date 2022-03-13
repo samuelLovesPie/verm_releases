@@ -67,6 +67,7 @@
   * Auto tool
   * Anti concussion
   * No blood screen
+  * Antihead
   * Always swim
   * No slowdown (this is for most game functions that slow u down)
 
