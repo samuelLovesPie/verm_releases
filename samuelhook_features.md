@@ -102,7 +102,7 @@
   * Auto parry
   * Auto finish
   * Anti parry
-  * Hitbox Expander
+  * Hitbox Extender (kinda like silent aim for ur melees)
 
 [Visuals]
   * Player ESP (boxes, name, face camera)
