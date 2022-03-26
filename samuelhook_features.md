@@ -42,7 +42,6 @@
   * Spread amount (lets you choose custom spread amount)
   * Custom firemode
   * Auto revolver
-  * Firerate amount (lets you choose custom firerate amount)
   * Custom burst amount (max is 5, sometimes doesn't fire all 5)
 
 [Visuals]
