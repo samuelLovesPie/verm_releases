@@ -97,11 +97,13 @@
 # Combat Warriors
 
 [Combat]
+  * Silent aim (its not the best since no prediction)
   * Kill aura
   * Auto parry
   * Auto finish
   * Anti parry
-  * Hitbox Extender (kinda like silent aim for ur melees)
+  * Hitbox Extender (kinda like silent aim for ur melees - use this for melees not head extender)
+  * Head extender (works best with bows)
 
 [Visuals]
   * Player ESP (boxes, name, face camera)
