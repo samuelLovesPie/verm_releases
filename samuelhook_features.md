@@ -101,7 +101,6 @@
   * Kill aura
   * Auto parry
   * Auto finish
-  * Anti parry
   * Hitbox Extender (kinda like silent aim for ur melees - use this for melees not head extender)
   * Head extender (works best with bows)
 
