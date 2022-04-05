@@ -14,7 +14,7 @@
   * Hitbox expander
   
 [Misc]
-  * Noclip
+  * Noclip (only works through smaller walls, i dont recommend buying just for this)
   * Infinite jump
   * Annoy near players (must have a gun equipped)
   * Auto tool pickup
