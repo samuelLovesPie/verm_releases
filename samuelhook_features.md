@@ -130,7 +130,6 @@
   * Teleport above enemy
   * Kill say
   * No dash cooldown
-  * Steal airdrop
   * Unlock all amotes
 
 # Zo
