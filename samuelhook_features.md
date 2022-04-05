@@ -64,7 +64,6 @@
   * Admin detector
   * No camera shake
   * Auto tool
-  * Anti concussion
   * No blood screen
   * Antihead
   * Always swim
