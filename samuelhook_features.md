@@ -98,7 +98,7 @@
   * Roof near pizza
   * Customizable TP (save pos)
 
-# Combat Warriors
+# Combat Warriors - GOTTA STILL UPDATE THIS LIST
 
 [Combat]
   * Silent aim (its not the best since no prediction)
