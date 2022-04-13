@@ -1,78 +1,82 @@
 # Criminality
 
+[Aim settings]
+  * Silent aim (With fov size, fov sides, fov transparency, aim hitbox, etc.)
+  * Wallbang (Shoots through 1-2 walls, not through the whole map)
+  * Auto shoot (Kind of scuffed)
+
 [Combat]
-  * Silent Aim (Fov, Show fov, Fov Color, & Hitpart Customization)
-  * Killaura
-  * Auto finish
-  * Infinite block
-  * Pepperspray aura
-  * Custom hitsound (bonk, rust, skeet, bag, baimware)
-  * Wallbang
-  * Triggerbot
-  * Custom models (for guns only)
-  * Whitelist friends (if they're your friend the silent aim wont target them)
-  * Hitbox expander
+  * Killaura (With range options)
+  * Auto finish (Auto stomps the player for you)
+  * Infinite block (Blocks infinitely when near players)
+  * Triggerbot (Automatically fires at your target)
+  * Pepperspray aura (Hits player with pepperspray infinitely)
+  * Whitelist friends (For all combat related features)
+  * Hitbox expander (Makes it easier to hit your opponent, w/ Hitbox amount)
+
+[Gun modifications]
+  * No recoil (Gun has recoil that you set within the menu)
+  * No spread (Gun has spread that you set within the menu)
+  * Instant aim (ADS instantly)
+  * Auto revolver (So you don't have to tick the revolver, it'll just shoot)
+  * Instant equip (Instantly equips your weapon)
+  * Bullet Color (Gun has custom bullet color)
+  * No bullet drop (Removes the drop on your gun)
+
+[Character]
+  * Walkspeed (With walkspeed amount)
+  * Jumppower (With jumppower amount)
+  * Field of view (With field of view amount)
+  * Anti fire (Stops you from continuing to burn after you step out of the fire)
+  * Fullbright (Brightens everything within the game so you can see)
+  * Infinite stamina (Lets you run as long as you want/Hit as long as you want)
+  * No smoke (Removes smokes whenever thrown)
+  * No flash (Removes the flash effects whenever flashed)
+  * No jump cooldown (Removes the jump cooldown within the game)
+  * Always swim (Kind of a fun feature, just lets you swim around as much as you want)
+
+[Character v2]
+  * Antidrown (Makes it so you can't be drowned)
+  * Admin detector (Kicks you upon the join of an admin)
+  * No camera shake (Removes the camera shake from the game)
+  * Antihead (Makes it so your head isn't visible to others)
+  * Auto tool (Equips the tool that is relevant only for farming, so if ur near register it pulls out fist, and if ur near safe is pulls out lockpick)
+  * No blood screen (Removes the blood effect after you've taken damage)
+  * Noclip (Makes it so you go through walls)
+  * No slowdown (Never be slowed down)
+  * Infinite jump (Lets you jump as much as you desire)
+  * Keep loot (Saves your loot - only out of combat)
+  * No ragdoll (Removes the ragdolling from the game)
+  * No fall damage (Removes fall damage from the game)
+  * Spin around (Lets you spin around like a beyblade)
+  * Auto respawn (Auto respawns you after death)
   
-[Misc]
-  * Noclip (only works through smaller walls, i dont recommend buying just for this)
-  * Infinite jump
-  * Annoy near players (must have a gun equipped)
-  * Auto tool pickup
-  * Auto pickup
-  * Auto lockpick
-  * Keep loot (only if you're not in combat, resetting, etc.)
-  * No fall damage
-  * No ragdoll
-  * Loop lock (so people can't break the door)
-  * Break near doors (requires weapon in ur hand that can break doors)
-  * Knock near doors
-  * Antidown
-  * Lag players
-  * Instant break safe
-  * Auto refill
-  * Anti barbwire
-  * Autobuy lockpicks (makes it easier to farm - you must be near a dealer)
-  * Spin around (makes u spin in circles kinda like antiaim)
-
-[Gun Mods]
-  * No Recoil
-  * Instant aim
-  * Instant equip
-  * No bullet drop
-  * Spread amount (lets you choose custom spread amount)
-  * Custom firemode
-  * Auto revolver
-  * Custom burst amount (max is 5, sometimes doesn't fire all 5)
-
 [Visuals]
-  * Players (box, name, tracers, etc.)
-  * Shell color (modifies the color of the shell that comes out of the gun)
-  * Bullet color (modifies the color of the bullets)
-  * Game ESP (scrap, safe, dealer, atm)
+  * Esp (Show boxes, names, tracers, distance, highlight, etc.)
+  * Esp objects (ATMs, safes, scraps, & dealers)
+  * Shell color (Lets you select the color of your shell)
+  * Bullet hole color (Lets you select the color you want your bullet holes to be)
+  * Esp distance (So the objects aren't cluttering the player esp)
 
-[Player]
-  * Walkspeed
-  * Jump power
-  * Field of view
-  * Antifire (works whenever you step out of the fire, gets rid of the fire damage)
-  * Fullbright
-  * Infinite stamina
-  * No smoke
-  * No flash
-  * No jump cooldown
-  * Anti drown
-  * Admin detector
-  * No camera shake
-  * Auto tool
-  * No blood screen
-  * Antihead
-  * Always swim
-  * No slowdown (this is for most game functions that slow u down)
+[Chat settings]
+  * Kill say (Says something upon killing someone - only in standard)
+  * Bypass easy (Lets you say 'Ez' in the chat without being tagged)
+  * Toggle chat (Lets you see messages people are saying in the chat)
 
-[Chat Stuff]
-  * Kill Say
-  * Bypass ez
-  * Toggle Chat
+[Miscellaneous]
+  * Auto pickup (Picks up money near you & scrap near you)
+  * Auto tool pickup (Picks up near tools)
+  * Annoy near players (Makes annoying sound whenever gun is equipped that annoys players near u)
+  * Loop lock (Continues to lock the door near you)
+  * Break near door (Breaks down door near you)
+  * Knock near door (Knocks on the door near you)
+  * Auto lockpick (Unlocks the door/safe near you instantly - with a lockpick equipped)
+  * Auto break safe (Break safe/register near you - for safes u need crowbar)
+  * Auto repair/refill (Auto repairs your armor and auto refills your gun - when near dealer)
+  * Custom hitsound (Lets you select the hitsound you want - or you can enter one)
+  * Anti barbwire (Doesn't let the barbwire do damage to you)
+  * Autobuy lockpicks (Auto buys lockpicks when near dealer - bypasses the limit of 4)
+  * Unlock near door (Unlocks the door near you)
   
 [Teleportation]
   * Dealer
@@ -89,9 +93,10 @@
   * Factory Inside
   * Warehouse Inside
   * Vibecheck Inside
-  * Customizable TP (safe pos)
-  * Check if in range (lets you choice what option you want. safe, scrap, dealer, atm.)
-  * Filter safes (all, medium, small, register)
+  * Tower top
+  * Factory roof
+  * Roof near pizza
+  * Customizable TP (save pos)
 
 # Combat Warriors
 
@@ -131,110 +136,3 @@
   * Kill say
   * No dash cooldown
   * Unlock all amotes
-
-# Zo
-
-[Combat]
-  * Killaura
-  * Sword reach (it's not that legit, i wouldnt recommend for legit gameplay)
-  * Kick aura
-  * Stay blocked
-  * Teleport behind enemy
-  * Hit bell
-
-[Visuals]
-  * Player ESP (boxes, name, face camera)
-
-[Misc]
-  * No dash cooldown (ban risk)
-  * No kick cooldown (ban risk)
-  * No cambob
-  * No jump cooldown
-  * Walkspeed
-  * Spam blood
-  * Infinite jump
-  * Run with sword
-  * Free latern
-  * Staff detector
-  * Weapon selection (kanabo, katana, naginata)
-  * Open shop
-
-# Right 2 Fight
-
-
-[Main]
-  * Autofarm
-  * Killaura
-  * Eat under health (you need to select the food you want to use in the menu)
-  * Invisibility
-  * Infinite money 
-  * Infinite heat
-  * Allow jumping
-  * Autobuy abilities
-  * Always evade
-
-# Vesteria
-
-[Main]
-  * Godmode
-  * Auto pickup (nearby items)
-  * No damage indicators (clientside, to reduce lag)
-  * Fullbright
-  * Killaura (kinda fast)
-  * Open merchant (opens the merchant in that world and lets you buy)
-  * Noclip
-  * Autofarm (sometimes breaks after a little bit, i wouldnt buy primarily for this feature)
-  * Respawn character (respawns you at full health)
-  * Teleport spots (has every tp in the world ur at)
-  * Collect all chests
-
-# Those Who Remain
-
-[Combat]
-  * Killaura
-  * Kill all
-  * Hitsound/Buildsound selection
-
-[Misc]
-  * Auto ready
-  * Auto pickup
-  * Custom hitsounds
-  * Custom build sound (everyone can hear the sound)
-  * Thirdperson
-  * Field of view
-  * Walkspeed
-  * Jump power
-
-[Gun mods]
-  * No recoil
-  * Full reload (reloads ur whole mag for certain guns that dont)
-  * Instant reload
-  * Always automatic
-  * Instant equip
-  * Instant build
-
-[Visuals]
-  * Zombie esp (customizable)
-
-# Vectus
-
-[Main]
-  * Killaura
-  * Auto open
-  * Infinite block
-  * No fall
-  * Auto loot
-  * Auto break door
-  * No ragdoll
-  * Auto parry break
-  * Kunai near player
-  * Auto pickup
-  * Automatic C4
-  * Infinite battery
-  * Infinite stamina
-  * No jump cooldown
-
-[Visuals]
-  * Player esp
-  * Flare esp
-  * Loot esp
