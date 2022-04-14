@@ -15,8 +15,8 @@
   * Hitbox expander (Makes it easier to hit your opponent, w/ Hitbox amount)
 
 [Gun modifications]
-  * No recoil (Gun has recoil that you set within the menu)
-  * No spread (Gun has spread that you set within the menu)
+  * No recoil (Makes your gun have no recoil)
+  * No spread (Makes your gun have no spread)
   * Instant aim (ADS instantly)
   * Auto revolver (So you don't have to tick the revolver, it'll just shoot)
   * Instant equip (Instantly equips your weapon)
