@@ -48,7 +48,7 @@
   * Keep loot (Saves your loot - only out of combat)
   * No ragdoll (Removes the ragdolling from the game)
   * No fall damage (Removes fall damage from the game)
-  * Spin around (Lets you spin around like a beyblade)
+  * Melee god (You still take damage from Critical Hits/Head Hits - Turn on AntiHead to counter Head hits though)
   * Auto respawn (Auto respawns you after death)
   
 [Visuals]
@@ -77,6 +77,9 @@
   * Anti barbwire (Doesn't let the barbwire do damage to you)
   * Autobuy lockpicks (Auto buys lockpicks when near dealer - bypasses the limit of 4)
   * Unlock near door (Unlocks the door near you)
+  * Anti Aim (Makes it harder for silent aim/aimbot to hit you)
+  * Infinite pepperspray (Makes your pepperspray spray forever)
+  * Auto claim allowance (Whenever near an ATM it'll claim your allowance for you)
   
 [Teleportation]
   * Dealer
@@ -97,6 +100,10 @@
   * Factory roof
   * Roof near pizza
   * Customizable TP (save pos)
+  * Player teleports (tps to the player u select)
+  * Teleport hit (tps to the player and hits them then tps back)
+  * Autofarm (tps to safes for you)
+  * Autofarm ATM (tps to atm whenever you're allowed to claim allowance)
 
 # Combat Warriors - GOTTA STILL UPDATE THIS LIST
 
